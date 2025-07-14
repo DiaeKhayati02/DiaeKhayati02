@@ -59,8 +59,8 @@
 
 ## 🎓 Certifications
 - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/khayatidiae-1596/credentials/6a591a097a6189b2?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- [Machine Learning Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/ZITFQ7D1L79T)
-- [Google Data Analytics Professional Certificate (Coursera)](https://www.coursera.org/account/accomplishments/specialization/45U4QXUKKTZP)
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/ZITFQ7D1L79T)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/45U4QXUKKTZP)
 
 ---
 
